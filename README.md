@@ -6,7 +6,17 @@
 
 ---
 
-## 立即打开
+## 在线地址
+
+**https://geoge-s.github.io/ora-nail-studio/**
+
+GitHub 仓库：**https://github.com/Geoge-S/ora-nail-studio**
+
+手机和电脑都可以直接打开上面的 Pages 地址。
+
+---
+
+## 本地打开
 
 双击 **`index.html`** 即可。推荐使用 Chrome、Edge 或 Safari。
 
@@ -14,9 +24,9 @@
 
 不需要安装任何依赖，不需要启动服务器。字体、图片、样式和脚本都在本地，断网也能正常显示。
 
-### 上线
+### 部署方式
 
-整个文件夹就是纯静态站点，没有构建步骤。可以把整个目录上传到 GitHub Pages、Netlify、Vercel、Cloudflare Pages，或任何支持静态文件的空间，入口保持 `index.html` 即可。
+整个文件夹就是纯静态站点，没有构建步骤。当前已部署在 GitHub Pages（仓库 `Geoge-S/ora-nail-studio`，分支 `main`，根目录）。以后更新本地文件后，重新上传到该仓库即可；也可以部署到 Netlify、Vercel、Cloudflare Pages，入口保持 `index.html`。
 
 ---
 
